@@ -1,0 +1,194 @@
+@import '~antd/dist/antd.css';
+*{
+    padding: 0;
+    margin: 0;
+}
+ul,li{
+    list-style: none;
+}
+body{
+    background-color: #ddd;
+}
+/* header */
+.headerwrap{
+    height: 50px;
+    background-color: #444;
+}
+.headerwrap header{
+    width: 1200px;
+    margin: 0 auto;
+}
+.headerwrap img{
+    margin-top: 10px;
+    width: 120px;
+}
+.headerwrap a{
+    margin: 0 20px;
+    color: #fff;
+}
+/* main */
+.main{
+    width: 1200px;
+    margin: 30px auto;
+}
+.content{
+    width: 900px;
+    float: left;
+    border: 2px solid red;
+}
+.sider{
+    width: 270px;
+    height: 500px;
+    float: right;
+    background-color: green;
+}
+/* 宫格 */
+  .not-square-grid .am-grid-icon {
+    width: 40px;
+    height: 60px;
+  }
+  /* 切图 */
+  .one{
+      float:left;
+      width:200px;
+      height:150px;
+  }
+  .two{
+      float:left;
+      width:200px;
+      height:70px;
+      margin-top:0px;
+  }
+  .three{
+      width:110px;
+      height:80px;
+      float:left;
+  }
+  .four{
+      width:90px;
+      height:80px;
+      float:left;
+  }
+  /* 附近 手风琴 */
+  .my-accordion .pad .am-accordion-content-box {
+    padding: 10px;
+  }
+  .liveList{
+      width:100%;
+      background-color:#fff;
+  }
+  .try{
+      width:100%;
+      height:120px;
+  }
+  .try div{
+    width:140px;
+    height:100px;
+    float:left;
+  }
+  .img1{
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left:20px;
+    margin-top:10px;
+  }
+  .img2{
+    width:150px;
+    height:27px;
+    margin-top:-30px;
+  }
+  .img3{
+    width:40px;
+    height:22px;
+  }
+  /* 我的 顶端 */
+  .top {
+      width:100%;
+      height:160px;
+      background-color:#bc0400;
+      color:white;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+      -webkit-justify-content: center;
+      justify-content: center;
+      text-align: center;
+  }
+  .son1{
+    width:100%;
+    height:60px;
+    text-align: center;
+  }
+  .son2{
+    width:100%;
+    height:30px;
+    font-size:18px;
+  }
+  .top2{
+      width:100%;
+      height:70px;
+      background-color:#a90401;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-justify-content: center;
+      justify-content: center;
+  }
+  .bro1{
+      width:100%;
+      height:70px;
+      text-align: center;
+  }
+  .bro2{
+      width:100%;
+      height:70px;
+      text-align: center;
+  }
+  .bro3{
+      width:100%;
+      height:70px;
+      text-align: center;
+  }
+  .bro1 p{
+      color:white;
+      font-size:18px;
+  }
+  .bro2 p{
+    color:white;
+    font-size:18px;
+}
+  .bro3 p{
+    color:white;
+    font-size:18px;
+}
+/* 中间部分 */
+.media{
+    width:100%;
+    height:350px;
+}
+.meida div{
+    width:100%;
+    height:40px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    background-color: #fff;
+}
+.media-p1{
+    font-size:20px;
+}
+.media-img1{
+    width:30px;
+    height:30px;
+}
+.bottom{
+    height:30px;
+    padding-top:5px;
+    background-color:#e5e5e5;
+    text-align:center;
+}
+.bottom span{
+    color:red;
+}

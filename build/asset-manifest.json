@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "static/css/main.cee641b3.chunk.css",
+    "main.js": "static/js/main.95d77b57.chunk.js",
+    "main.js.map": "static/js/main.95d77b57.chunk.js.map",
+    "runtime-main.js": "static/js/runtime-main.d10b7575.js",
+    "runtime-main.js.map": "static/js/runtime-main.d10b7575.js.map",
+    "static/css/2.99f9ecae.chunk.css": "static/css/2.99f9ecae.chunk.css",
+    "static/js/2.bdc41e87.chunk.js": "static/js/2.bdc41e87.chunk.js",
+    "static/js/2.bdc41e87.chunk.js.map": "static/js/2.bdc41e87.chunk.js.map",
+    "index.html": "index.html",
+    "precache-manifest.8ea0ee12c36ae75d097849052dc6def0.js": "precache-manifest.8ea0ee12c36ae75d097849052dc6def0.js",
+    "service-worker.js": "service-worker.js",
+    "static/css/2.99f9ecae.chunk.css.map": "static/css/2.99f9ecae.chunk.css.map",
+    "static/css/main.cee641b3.chunk.css.map": "static/css/main.cee641b3.chunk.css.map",
+    "static/media/big_13.png": "static/media/big_13.8c98c937.png",
+    "static/media/bishengke_07.png": "static/media/bishengke_07.4fb74bcb.png",
+    "static/media/four_10.png": "static/media/four_10.51b3360f.png",
+    "static/media/kendeji_19.png": "static/media/kendeji_19.c8a84d4f.png",
+    "static/media/maidanglao_03.png": "static/media/maidanglao_03.493f528f.png",
+    "static/media/one_03.png": "static/media/one_03.d7d0d0bf.png",
+    "static/media/three_08.png": "static/media/three_08.6d895477.png",
+    "static/media/touxiang_03.png": "static/media/touxiang_03.2773b2ff.png",
+    "static/media/two_04.png": "static/media/two_04.d07448c6.png",
+    "static/media/xingbake_30.png": "static/media/xingbake_30.718f5de7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d10b7575.js",
+    "static/css/2.99f9ecae.chunk.css",
+    "static/js/2.bdc41e87.chunk.js",
+    "static/css/main.cee641b3.chunk.css",
+    "static/js/main.95d77b57.chunk.js"
+  ]
+}
